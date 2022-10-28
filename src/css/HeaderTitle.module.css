@@ -1,0 +1,48 @@
+.container {
+    width: 100%;
+    margin: 0;  
+    height: 100%;
+}
+
+.background {
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin-top: 15px;
+}
+
+.main {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 25px;
+    box-shadow: 0 3px 3px #fff;
+}
+
+.logos {
+    display: block;
+    width: 30%;
+    height: auto;
+    top: 70px;
+    left: 600px;
+    position: absolute;
+}
+
+.title {
+    border-bottom: 2px solid;
+    border-color: #999999;
+    box-shadow: 0 2px 4px #fff;
+}
+
+.title h1 {
+    text-align: center;
+    font-family: "Nico Moji";
+    font-size: 64px;
+    font-weight: bold;
+}
+.title p {
+    font-family: "Nico Moji";
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}

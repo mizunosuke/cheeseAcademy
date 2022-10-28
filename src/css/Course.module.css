@@ -1,0 +1,101 @@
+.container {
+    width: 100%;
+    margin-top: 60px;
+    border-bottom: 2px solid;
+    box-shadow: 0 0 3px #fff;
+    border-color: #999999;
+    padding-bottom: 60px;
+}
+
+.title {
+    margin-top: 90px;
+}
+
+.title h2 {
+    margin: 0 auto;
+    width:70%;
+    text-align: center;
+    font-size: 48px;
+    font-family: "Nico Moji";
+}
+
+.title p {
+    font-size: 24px;
+    text-align: center;
+    font-family: "Nico Moji";
+}
+
+.contents {
+    width :100%;
+    margin: 60px 0 0;
+}
+
+.content {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justifyy-content: center;
+    align-items: center;
+}
+
+.image {
+    width: 50%;
+    
+}
+
+.image img {
+    width: 100%;
+    display: block;
+    object-fit: contain;
+}
+
+.massage {
+    width: 50%;
+}
+
+.massage h3{
+    font-size: 28px;
+    position: relative;
+    overflow: hidden;
+    padding: 1.5rem 2rem 1.5rem 130px;
+    border: 2px solid #000;
+  }
+  
+  .massage h3:before {
+    position: absolute;
+    top: -150%;
+    left: -100px;
+    width: 200px;
+    height: 300%;
+    content: '';
+    -webkit-transform: rotate(25deg);
+    transform: rotate(25deg);
+    background: #000;
+  }
+  
+  .massage span {
+    font-size: 40px;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    display: block;
+    padding-top: 10px;
+    padding-left: 16px;
+    color: #fff;
+  }
+
+.massage p {
+    font-size: 18px;
+    text-align: center;
+    font-family: "Arial";
+    line-height: 42px;
+    letter-spacing: 1px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+  
+ 
+  
+
+  

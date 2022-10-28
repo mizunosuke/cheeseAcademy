@@ -1,0 +1,46 @@
+.container {
+    width: 100%;
+    margin-top: 60px;
+    border-bottom: 2px solid;
+    box-shadow: 0 0 3px #fff;
+    border-color: #999999;
+    padding-bottom: 60px;
+    background-color:#fafafa;
+}
+
+.title h2 {
+    margin: 0 auto;
+    width:70%;
+    text-align: center;
+    font-size: 48px;
+    font-family: "Nico Moji";
+}
+
+.title p {
+    font-size: 18px;
+    text-align: center;
+    font-family: "Nico Moji";
+}
+
+.company {
+    width: 100%;
+    margin: 0;
+}
+
+.contents {
+    width: 60%;
+    display: flex;
+    justifyy-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.contents div {
+    width: 50%;
+}
+
+.contents p {
+    width: 70%;
+    margin: 38px auto;
+    text-align: center;
+}

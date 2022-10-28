@@ -1,0 +1,23 @@
+.contents {
+    width: 100%;
+    margin: 40px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contents img {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+    box-shadow: 12px 8px 12px #999999;
+    border: 2px solid;
+    border-radius: 50%;
+}
+
+.container {
+    width: 100%;
+    padding-bottom: 50px;
+    border-bottom: 2px solid;
+    border-color:  #c0c0c0;
+}

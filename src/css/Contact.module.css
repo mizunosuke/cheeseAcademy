@@ -1,0 +1,125 @@
+.container {
+    width: 100%;
+    margin: 0 0 60px 0j;
+}
+
+.contact_title {
+    width: 100%;
+    margin: 20px;
+}
+
+.contact_title h2 {
+    margin: 0 auto;
+    width:70%;
+    text-align: center;
+    font-size: 48px;
+    font-family: "Nico Moji";
+}
+
+.contact_title p {
+    font-size: 24px;
+    text-align: center;
+    font-family: "Nico Moji";
+}
+
+.massage_content {
+    width: 100%;
+    margin: 0;
+}
+
+.massage_content p {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.form_container {
+    width: 100%;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 18px;
+}
+  
+.form_container dl {
+    width: 72%;
+    margin: 0 auto;
+}
+  
+.form_q dl, dt, dd {
+    margin: 0; 
+    padding: 0;
+}
+  
+.form_q {
+    display: flex;
+    margin: 40px 0; 
+}
+  
+.form_q dt {
+    font-size: 18px;
+}
+  
+.form_q label {
+    display: block;
+    text-align: center;
+}
+  
+.form_q input {
+    width: 328px;
+    height: 36px;
+}
+  
+.form_container dt {
+    width: 50%;
+}
+  
+.form_container dd {
+    width: 50%;
+}
+  
+.check_q {
+    display: flex;
+    margin-bottom: 32px;
+}
+  
+.check_q dt {
+    fot-size: 18px;
+    text-align: center;
+}
+  
+.check_q dd {
+    margin: 14px;
+    width: 100%;
+}
+  
+.check_q label {
+    display: block;
+    text-align: left;
+}
+  
+input[type=checkbox] {
+    transform: scale(2);
+    margin: 13px 40px 13px 0;
+}
+  
+.check_q_list {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0;
+}
+
+.form_text {
+    display: flex;
+    margin-bottom: 40px;
+}
+  
+.form_text dt {
+    font-size: 18px;
+    text-align: center;
+}
+  
+.form_text textarea {
+    width: 328px;
+    height: 108px;
+}
+

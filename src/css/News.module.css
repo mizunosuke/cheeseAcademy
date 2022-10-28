@@ -1,0 +1,62 @@
+.container {
+    width: 100%;
+    margin: 0;
+    border-bottom: 2px solid;
+    box-shadow: 0 0 3px #fff;
+    border-color: #999999;
+    padding-bottom: 60px;
+}
+
+.title {
+    width: 100%;
+    margin-top: 90px;
+    text-align: center;
+}
+
+.title h2 {
+    margin: 0 auto;
+    width:70%;
+    text-align: center;
+    font-size: 48px;
+    font-family: "Nico Moji";
+}
+
+.title p {
+    font-size: 24px;
+    text-align: center;
+    font-family: "Nico Moji";
+}
+
+.contents {
+    width: 100%;
+    margin: 0;
+}
+
+.content {
+    width: 100%;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.image_massage {
+    width: 33%;
+}
+
+.image_massage img {
+    display: block;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.image_massage p {
+    font-size: 18px;
+    text-align: center;
+    font-family: "Arial";
+    line-height: 42px;
+    letter-spacing: 1px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
